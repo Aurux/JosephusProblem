@@ -1,4 +1,4 @@
-# JosephusProblem
+# Josephus Problem
 
 My bruteforce solution to the [Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem "Wikipedia").
 
